@@ -2,9 +2,9 @@
   "name": "cassowary-system",
   "version": "0.0.0",
   "authors": [
-    "Matthew Trost <mrtrost@gmail.com>"
+    "Matthew Trost"
   ],
-  "description": "API for building Cassowary constraint solver systems.",
+  "description": "API wrapper over Cassowary.js",
   "keywords": [
     "cassowary"
   ],
@@ -17,6 +17,9 @@
     "test",
     "tests"
   ],
+  "dependencices": {
+    "cassowary.js": "git://github.com/slightlyoff/cassowary.js"
+  },
   "devDependencies": {
     "cassowary.js": "git://github.com/slightlyoff/cassowary.js",
     "requirejs": "~2.1.14"

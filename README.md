@@ -1,4 +1,4 @@
-# cassowary-system
+# cassowary-system [UNMAINTAINED]
 
 **cassowary-system** is an API wrapper over the awesome [Cassowary.js](https://github.com/slightlyoff/cassowary.js) library (itself a JavaScript port of the Cassowary constraint solver). The intent of this wrapper to make creating constraint systems with Cassowary.js a bit simpler to declare and manage. **This project is very much a proof of concept; YMMV!**
 
